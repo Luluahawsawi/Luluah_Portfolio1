@@ -31,7 +31,7 @@ To track and visualize the growth and development of the Hajj Conference across 
 **Skills Demonstrated:**
 DAX measures · Time intelligence · KPI cards · Bar and column charts · Multi-year trend analysis · Bilingual dashboard design
 
-![Hajj Conference Dashboard](hajj-conference-dashboard/hajj_dashboard.png)
+![Hajj Conference Dashboard](https://drive.google.com/uc?export=view&id=1ybv5FO5GHRlr5RXrefCDh9-QVOX1ocMc)
 
 ---
 
@@ -56,7 +56,7 @@ To analyze whether promotional activity meaningfully impacts revenue outcomes, a
 **Skills Demonstrated:**
 Slicers and filters · Date range analysis · KPI cards · Stacked bar charts · Multi-location trend lines · Revenue comparison
 
-![Walmart Promotion Dashboard](walmart-promotion-dashboard/walmart_dashboard.png)
+![Walmart Promotion Dashboard](https://drive.google.com/uc?export=view&id=1uLgZSMA_vFnlsZ-bP9TI1BiqXbLl3fcr)
 
 ---
 
@@ -81,7 +81,7 @@ To demonstrate how a waterfall chart can clearly communicate to leadership where
 **Skills Demonstrated:**
 Waterfall chart design · DAX calculations · Budget variance storytelling · Arabic-language dashboard · Executive-ready visualization
 
-![Marketing Budget Waterfall](marketing-budget-analysis/budget_waterfall.png)
+![Marketing Budget Waterfall](https://drive.google.com/uc?export=view&id=1N2oThX8KohiG_Qk1tHB516pl1nvhXIVm)
 
 ---
 
@@ -106,7 +106,7 @@ To investigate whether employee attrition follows predictable patterns, and surf
 **Skills Demonstrated:**
 Multi-tab dashboard design · Donut and bar charts · Trend line analysis · Attrition rate calculations · Department and role-level segmentation · HR domain analytics
 
-![HR Analytics Dashboard](hr-analytics-dashboard/hr_dashboard.png)
+![HR Analytics Dashboard](https://drive.google.com/uc?export=view&id=1haEUmSiYJT0yZVVDKZ7bJGW8hLkf_Cgc)
 
 ---
 
